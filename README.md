@@ -16,10 +16,6 @@ Web Dev:      HTML | CSS | Node.js | React | MySQL | MongoDB
 Tools:        Git | GitHub | VS Code | XAMPP | Pycharm | Codeblocks | Eclipse
 ```
 
-### 🔥 My GitHub Stats
-
-![Hrishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=VHrishita\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VHrishita\&layout=compact\&theme=radical)
 
 ### 🚀 Projects
 
